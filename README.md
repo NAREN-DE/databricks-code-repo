@@ -1,2 +1,2 @@
 # databricks-code-repo
-To maintain databricks notebook and other onjects
+To maintain databricks notebook and other objects
